@@ -8,10 +8,10 @@ The main repository can be found at [https://github.com/khulnasoft-lab/btfhub](h
 
 ## Credits for this repository:
 
-1. Itay Shakury (Aqua Security)
+1. Itay Shakury (KhulnaSoft Security)
    - Idealization of the project
    - Planned for initial usage with Tracee
-1. Rafael David Tinoco (Aqua Security)
+1. Rafael David Tinoco (KhulnaSoft Security)
    - Initial archive creator with Ubuntu, Fedora
    - Initial build logic and examples
    - Helped Mauricio developing BTFgen
